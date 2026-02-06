@@ -10,3 +10,18 @@ This repo covers:
 - Automatic docs (the killer feature)
 
 ---
+
+## What is FastAPI?
+
+FastAPI is a **modern Python web framework** for building APIs using:
+- Python type hints
+- ASGI (async-first)
+- Pydantic for validation
+
+Why people simp for it:
+- Blazing fast (Starlette + Uvicorn)
+- Minimal boilerplate
+- Auto-generated docs (Swagger & ReDoc)
+- Hard to shoot your own foot (types save lives)
+
+---
