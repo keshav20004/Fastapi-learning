@@ -25,3 +25,10 @@ Why people simp for it:
 - Hard to shoot your own foot (types save lives)
 
 ---
+## Requirements
+
+- Python **3.8+**
+- pip
+- Virtual environment (recommended, not optional if you’re sane)
+
+---
