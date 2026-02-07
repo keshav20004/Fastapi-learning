@@ -43,3 +43,8 @@ python -m venv venv
 pip install fastapi uvicorn
 
 
+fastapi-basics/
+│
+├── main.py        # Entry point
+├── requirements.txt
+└── README.md
