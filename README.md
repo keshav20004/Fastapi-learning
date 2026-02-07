@@ -40,4 +40,6 @@ Why people simp for it:
 git clone https://github.com/your-username/fastapi-basics.git
 cd fastapi-basics
 python -m venv venv
+pip install fastapi uvicorn
+
 
