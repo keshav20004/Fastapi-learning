@@ -32,3 +32,10 @@ Why people simp for it:
 - Virtual environment (recommended, not optional if you’re sane)
 
 ---
+
+## Setup
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/fastapi-basics.git
+cd fastapi-basics
