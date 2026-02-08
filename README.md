@@ -1,4 +1,4 @@
-# FastAPI Basics 🚀
+# FastAPI Basics 
 
 A beginner-friendly FastAPI project to learn how modern Python backend APIs are built — fast, async, and sane.
 
